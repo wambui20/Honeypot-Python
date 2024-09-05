@@ -7,7 +7,6 @@ This project implements a low-interaction honeypot system using Python, which si
 - **SSH and Telnet Honeypot**: Logs login attempts and commands via simulated SSH/Telnet.
 - **FTP Honeypot**: Simulates an FTP server using `pyftpdlib`, logging login attempts and file interactions.
 - **SMB Honeypot**: Mocks an SMB server, logging connection attempts.
-- **RDP Honeypot**: Uses an HTTP server to simulate basic RDP-like behavior, logging interactions.
 - **Centralized Logging**: Logs all interactions for each service to separate log files for later analysis.
 
 ## Requirements

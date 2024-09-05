@@ -70,6 +70,7 @@ Customization
 Legal Disclaimer
 
 This honeypot system is designed for educational and research purposes. Do not deploy it in a production environment or on an open network without proper legal authorization. Honeypots are often targeted by malicious actors, and running them on sensitive systems can result in unintended consequences.
+
 Contributing
 
 Contributions to improve this project are welcome! Please open an issue or submit a pull request.
